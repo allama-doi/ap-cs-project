@@ -28,7 +28,7 @@ header nav ul li {
   display: inline;
 }
   
-#aboutme, #projects  {
+#projects, #aboutme  {
   margin: 0 auto; 
   width: 90%;
   max-width: 600px;
