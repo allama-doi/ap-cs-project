@@ -40,10 +40,10 @@ header nav ul li {
 }
   
 .project img, #aboutme img  {
-  width: 500px;
+  width: 200px;
   float: left;
-  margin-right: 15px;
-  margin-bottom: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
   
 .project h2, #aboutme h2  {
