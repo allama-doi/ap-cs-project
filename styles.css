@@ -29,9 +29,9 @@ header nav ul li {
 }
   
 #projects, #aboutme  {
-    margin: 50 auto; 
+    margin: 0 auto; 
     width: 90%;
-    max-width: 400px;
+    max-width: 600px;
 }
 
 .project {
