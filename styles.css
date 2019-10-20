@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
   
 a {
@@ -7,7 +7,7 @@ a {
 }
   
 a:hover {
-    color: #00aeff;
+  color: #00aeff;
 }
   
 .clear {
